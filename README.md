@@ -2,19 +2,18 @@
 
 I'm an aspiring IT professional currently transitioning into the field 
 from a background in personal training and business development. 
-I'm CompTIA A+ certified and actively pursuing additional certifications 
-on the path toward a career in cybersecurity.
+I'm CompTIA A+ certified and actively studying for additional certifications 
+to deepen my Windows Server and systems administration skills.
 
 ## What I'm working on
 
 🔧 Building hands-on labs to bridge the gap between certification 
 knowledge and real-world IT work.
 
-📚 Currently studying for Network+  
-and continuing to deepen my Windows Server and Active Directory expertise.
+📚 Currently studying for Network+ and continuing to deepen my Windows Server and Active Directory expertise.
 
-🎯 Targeting helpdesk and junior sysadmin roles as a starting point, 
-with a long-term focus on cybersecurity.
+🎯 Targeting helpdesk, desktop support, and junior systems administration 
+roles.
 
 ## Featured project
 
@@ -29,6 +28,8 @@ in VMware.
 📫 johnsboehler@outlook.com
 
 💼 https://www.linkedin.com/in/john-boehler-/
+
+
 <!--
 **john-boehler/john-boehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
