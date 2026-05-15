@@ -18,10 +18,7 @@ roles.
 ## Featured project
 
 **[Active Directory Home Lab](https://github.com/john-boehler/active-directory-homelab)** — 
-End-to-end Active Directory environment demonstrating domain setup, 
-Group Policy, AGDLP-based file server permissions, and structured 
-troubleshooting methodology. Built on Windows Server 2025 and Windows 11 
-in VMware.
+Hands-on lab covering the kinds of tasks a Tier 1 helpdesk tech does day-to-day: user management, Group Policy, file share permissions, and troubleshooting. Built on Windows Server 2025 and Windows 11 in VMware.
 
 ## How to reach me
 
