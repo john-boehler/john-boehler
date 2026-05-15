@@ -1,43 +1,14 @@
-## Hey, I'm John 👋
+## Hey, I'm John 
 
-I'm an aspiring IT professional currently transitioning into the field 
-from a background in personal training and business development. 
-I'm CompTIA A+ certified and actively studying for additional certifications 
-to deepen my Windows Server and systems administration skills.
+CompTIA A+ certified, looking for Tier 1 Helpdesk, Desktop Support, or IT Technician Roles in the NYC/Long Island area. Currently studying for the Network+.
 
-## What I'm working on
+I am building hands-on labs because there's a gap between what the cert teaches and what the ticket asks for.
 
-🔧 Building hands-on labs to bridge the gap between certification 
-knowledge and real-world IT work.
-
-📚 Currently studying for Network+ and continuing to deepen my Windows Server and Active Directory expertise.
-
-🎯 Targeting helpdesk, desktop support, and junior systems administration 
-roles.
-
-## Featured project
+## Featured projects
 
 **[Active Directory Home Lab](https://github.com/john-boehler/active-directory-homelab)** — 
 Hands-on lab covering the kinds of tasks a Tier 1 helpdesk tech does day-to-day: user management, Group Policy, file share permissions, and troubleshooting. Built on Windows Server 2025 and Windows 11 in VMware.
 
 ## How to reach me
 
-📫 johnsboehler@outlook.com
-
-💼 https://www.linkedin.com/in/john-boehler-/
-
-
-<!--
-**john-boehler/john-boehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*[LinkedIn](https://www.linkedin.com/in/john-boehler-/) · [Email](mailto:johnsboehler@outlook.com)*
